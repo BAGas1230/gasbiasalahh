@@ -40,8 +40,8 @@ font-family: 'Poppins', sans-serif;
 body{
 	font-family: 'Poppins', sans-serif;
 	font-size:16px;
-	color: #ffffff;
-	background: #64bff0;
+	color: #000000;
+	background: #d2388d;
     max-width:1920px;
     margin:0 auto;
 	overflow-x:hidden;
@@ -64,7 +64,7 @@ h1,h2,h3,h4,h5,h6 {
 p {
 	margin: 0;
 	line-height:1.8;
-	color:#43485c;
+	color:#032cd1;
 	font-size:14px;
 	font-family: 'Poppins', sans-serif;
 }
@@ -190,7 +190,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/pukimak.jpg)no-repeat;
+    background:url(../images/about/k3.jpg)no-repeat;
     background-size:cover;
     background-position: center;
     height:890px;
@@ -255,7 +255,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 }
 .single-about-txt p {
     font-size: 16px;
-    color: #999fb3;
+    color: #ffffff;
     padding: 35px 0 43px;
     border-bottom: 1px solid #999fb3;
 }
@@ -263,7 +263,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     margin: 35px 0;
 }
 .single-about-add-info h3 {
-    color: #636a82;
+    color: #fefefe;
     font-size: 16px;
     text-transform: capitalize;
 }
